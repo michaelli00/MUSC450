@@ -58,7 +58,7 @@ output: pdf_document
 
 **Plagal Cadence**: Secure move from $\Romannum{4}$ to $\Romannum{1}$
 
-- Called an "amen" cadence in church music (usually called a **post cadential plagal gesture**)
+- If PC occurs after a strong cadence, usually called an "amen" cadence in church music (or **post cadential plagal gesture**)
 
 \begin{figure}[!htb]
   \centering
@@ -76,3 +76,27 @@ output: pdf_document
   \includegraphics[height=55px]{./abc-notation/deceptive-cadence/deceptive-cadence.png}
   \caption{Deceptive Cadence}
 \end{figure}
+
+# Levels of Metrical perceptions
+
+We can view beats/meter at varying levels
+
+- Beats
+- Measures as beats (**hypermeter**)
+- Phrases/Half-phrases as beats
+
+# Extending, Expanding, and Connecting Phrases
+
+**Motivic Anticipation**: Beginning phrase is repeated before the phrase continues to anticipate the main motive
+
+**Interpolation**: Material in the middle of the phrase extends on previous material
+
+**Standing on the Dominant**: Dominant is emphasized and lengthened (usually occurs at the end of the phrase)
+
+**Cadential Extension**: Entire cadential "turn around" is repeated (usually occurs at the end of the phrase)
+
+**Echo**: End of phrase is repeated by secondary voice (doesn't have to occur at the end)
+
+**Phrase Elision**: Rather than cadencing, composers will elide (omit) an PAC/IAC with the beginning of the next phrase
+
+**Melodic Links**: Keeping melodic energy going even as harmony comes to a cadential closure
