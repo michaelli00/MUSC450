@@ -77,7 +77,7 @@ output: pdf_document
   \caption{Deceptive Cadence}
 \end{figure}
 
-# Levels of Metrical perceptions
+# Levels of Metrical Perceptions
 
 We can view beats/meter at varying levels
 
@@ -89,7 +89,7 @@ We can view beats/meter at varying levels
 
 **Motivic Anticipation**: Beginning phrase is repeated before the phrase continues to anticipate the main motive
 
-**Interpolation**: Material in the middle of the phrase extends on previous material
+**Interpolation**: Material in the middle of the phrase extends on immediate previous material
 
 **Standing on the Dominant**: Dominant is emphasized and lengthened (usually occurs at the end of the phrase)
 
@@ -100,3 +100,103 @@ We can view beats/meter at varying levels
 **Phrase Elision**: Rather than cadencing, composers will elide (omit) an PAC/IAC with the beginning of the next phrase
 
 **Melodic Links**: Keeping melodic energy going even as harmony comes to a cadential closure
+
+# Constructing Short Musical Phrases
+
+Musical phrases are perceived by
+
+- Repetition
+- Variation
+
+**Sentences**: musical phrase with a balance of repetition and variation **with only one cadence**. Categorized into
+
+- **Presentation**
+  - **Basic Idea**: Most memorable part of the melody (may be repeated verbatim or tranposed)
+  - **Varied Basic Idea**: Prolongation prolongs and confirms tonic-type harmonies **with no cadence**
+- **Continuation**: derives material from the Basic Idea or presents new. Typically has repetition in the first half and adds variation in the second half
+  - **Drive to Cadence**: Complex harmonies drive the music to a cadence
+  - **Cadence**:
+
+Continuations are usually marked by
+
+- **Fragmentation**: small "germinal" motive from the Basic Idea extracted and modified
+- **Sequencing**: Small musical ideas occur at one pitch level, then repeated a step higher/lower
+- **Accelerated Melodic Motion**: Surface-level activity is increased, causing more subdivisions of the beat occurring in the melody
+- **Greater Harmonic Variety**: Use more/different chords in the continuation than in the presentation
+- **Faster Harmonic Rhythm**: Underlying harmonies change more rapidly in the continuation than in the presentation
+
+&nbsp;
+
+How is the basic idea varied: Slightly different harmonies (in the last beat), slightly different rhythm
+
+- Presentation is first for 4 bars (BI 2 bars, VBI 2 bars)
+
+Features that create momentum in the continuation
+
+- Sequencing, greater harmonic variety, faster harmonic rhythm, accelerated melodic material, fragmentation (triplet theme)
+
+# Periods
+
+**Periods**: consist of 2 phrases: an **antecedent** that ends with a weak cadence, and a **consequent** that ends with a stronger cadence
+
+- Antecedent ends with IAC $\implies$ Consequence ends with a PAC
+- Antecedent ends with HC $\implies$ Consequence ends with an IAC or PAC
+
+The strategy is a dialogue between a questioner and an answerer
+
+&nbsp;
+
+**Parallel Period**: Each of the two phrases begin with the same (or similar) musical material
+
+- A character asks a question then answers that same question
+
+&nbsp;
+
+**Sequential Period**: Each of the two phrases being with the same (or similar) musical material BUT transposed up or down
+
+- Musical characters have the same contour but begin and end in different places (increase or decrease drama)
+
+&nbsp;
+
+**Contrasting Period**: Each of the two phrases begins with different musical material
+
+- A character asks a question and a different character answers it
+
+&nbsp;
+
+**Note**: Periods can be made up of two sentence and can use phrase modifications
+
+&nbsp;
+
+**PS**: Four-phrase phrase chains that fit into one of the following two cadential schemes
+
+- **Double Period**: HC HC HC PAC
+- **Repeated Period**: HC PAC HC PAC
+
+# Forms
+
+Two-part forms consist of several sub-categories within the **greater binary** classification
+
+- First section usually ends with PAC in new key, HC in main key, or PAC/IAC in main key
+- Second section ends with PAC in the main key
+
+First section usually modulates to a second key, and the second section modulates back to te first key
+
+If the piece is in major, the second key will likely be $\Romannum{5}$. Otherwise the second key will be $\Romannum{3}$
+
+Instability in the second section comes from
+
+- Standing on the dominant
+- Sequences
+- Rampant tonicizations
+
+**Simple Binary**: Motivic material from first section does not directly return in the second section
+
+**Rounded Binary**: Motivic material from the first secion returns at the end of the second section, resulting in ABA or ABA' (B section lacks a strong cadence)
+
+**Balanced Binary**: Motivic material from the end of the first section returns at the end of the second section (can be transposed)
+
+- First section ends in PAC in new key
+- Second section ends with PAC in main key
+
+
